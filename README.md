@@ -11,4 +11,3 @@
  🔭 I’m currently working on these projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hopelite&repo=Enqueuer&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hopelite&repo=Telegram.Bot.Types.ReplyMarkups.DatePickers&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
