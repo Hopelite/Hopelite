@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Hopelite/Hopelite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hopelite&theme=chartreuse-dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+ 💼 I'm back-end software engineer at the [EPAM](https://www.epam.com/); mostly focus on **C#** language. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hopelite&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+ 📫 You can reach me by [email](mailto:KurdesoWadim@gmail.com).
+
+ 🔭 I’m currently working on these projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hopelite&repo=Enqueuer&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
