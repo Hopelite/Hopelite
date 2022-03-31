@@ -1,10 +1,10 @@
 # Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hopelite&theme=chartreuse-dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hopelite&theme=chartreuse-dark&count_private=true&show_icons=true)]()
 
- 💼 I'm back-end software engineer at the [EPAM](https://www.epam.com/); mostly focus on **C#** language. 
+ 💼 I'm back-end software engineer at the [EPAM Systems](https://www.epam.com/); mostly focus on **C#** language. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hopelite&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hopelite&layout=compact&theme=chartreuse-dark?hide=c)]()
 
  📫 You can reach me by [email](mailto:KurdesoWadim@gmail.com).
 
