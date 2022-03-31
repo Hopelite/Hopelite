@@ -4,7 +4,7 @@
 
  💼 I'm back-end software engineer at the [EPAM Systems](https://www.epam.com/); mostly focus on **C#** language. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hopelite&layout=compact&theme=chartreuse-dark?hide=c)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hopelite&layout=compact&theme=chartreuse-dark?hide=C&kivylang)]()
 
  📫 You can reach me by [email](mailto:KurdesoWadim@gmail.com).
 
